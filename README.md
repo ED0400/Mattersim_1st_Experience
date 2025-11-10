@@ -1,10 +1,3 @@
-# Mattersim_1st_Experience
-Material and molecular simulations with MatterSim – first experience exploring force predictions, phonons, phase diagrams, and thermal conductivity under various conditions.
-Perfect — that makes the README more authentic and personal to your work.
-Let’s use your **own Silicon (Si)** simulation example — the one you ran earlier with `PhononWorkflow` and `MatterSimCalculator`.
-Here’s your updated **README.md** with the **“Example Simulation”** section replaced by your **real performed simulation** while keeping the rest of the structure intact and professional:
-
----
 
 # MatterSim GUI — First Experience
 
