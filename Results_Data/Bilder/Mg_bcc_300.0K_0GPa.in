@@ -1,0 +1,8 @@
+
+    system Mg_bcc
+    temperature 300.0
+    pressure 0
+    structure_file Mg_bcc.xyz
+    lattice_parameter 3.21
+    output_format txt
+    
